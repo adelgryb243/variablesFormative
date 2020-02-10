@@ -1,0 +1,9 @@
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.csprojAssemblyReference.cache
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.Form1.resources
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.Properties.Resources.resources
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.csproj.GenerateResource.cache
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\bin\Debug\variablesFormative.exe.config
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\bin\Debug\variablesFormative.exe
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\bin\Debug\variablesFormative.pdb
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.exe
+C:\Users\Adele\source\repos\variablesFormative\variablesFormative\obj\Debug\variablesFormative.pdb
